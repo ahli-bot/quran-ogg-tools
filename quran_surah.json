@@ -1,0 +1,688 @@
+{
+  "surahs": [
+    {
+      "number": "001",
+      "name": "Al-Fatihah",
+      "meaning": "Pembuka",
+      "total_ayat": 7
+    },
+    {
+      "number": "002",
+      "name": "Al-Baqarah",
+      "meaning": "Sapi",
+      "total_ayat": 286
+    },
+    {
+      "number": "003",
+      "name": "Ali-Imran",
+      "meaning": "Keluarga Imran",
+      "total_ayat": 200
+    },
+    {
+      "number": "004",
+      "name": "An-Nisa",
+      "meaning": "Perempuan",
+      "total_ayat": 176
+    },
+    {
+      "number": "005",
+      "name": "Al-Maidah",
+      "meaning": "Hidangan",
+      "total_ayat": 120
+    },
+    {
+      "number": "006",
+      "name": "Al-An'am",
+      "meaning": "Binatang Ternak",
+      "total_ayat": 165
+    },
+    {
+      "number": "007",
+      "name": "Al-A'raf",
+      "meaning": "Tempat Tertinggi",
+      "total_ayat": 206
+    },
+    {
+      "number": "008",
+      "name": "Al-Anfal",
+      "meaning": "Rampasan Perang",
+      "total_ayat": 75
+    },
+    {
+      "number": "009",
+      "name": "At-Taubah",
+      "meaning": "Pengampunan",
+      "total_ayat": 126
+    },
+    {
+      "number": "010",
+      "name": "Yunus",
+      "meaning": "Yunus",
+      "total_ayat": 109
+    },
+    {
+      "number": "011",
+      "name": "Hud",
+      "meaning": "Hud",
+      "total_ayat": 123
+    },
+    {
+      "number": "012",
+      "name": "Yusuf",
+      "meaning": "Yusuf",
+      "total_ayat": 111
+    },
+    {
+      "number": "013",
+      "name": "Ar-Rad",
+      "meaning": "Guruh",
+      "total_ayat": 43
+    },
+    {
+      "number": "014",
+      "name": "Ibrahim",
+      "meaning": "Ibrahim",
+      "total_ayat": 52
+    },
+    {
+      "number": "015",
+      "name": "Al-Hijr",
+      "meaning": "Hijr",
+      "total_ayat": 99
+    },
+    {
+      "number": "016",
+      "name": "An-Nahl",
+      "meaning": "Lebah",
+      "total_ayat": 128
+    },
+    {
+      "number": "017",
+      "name": "Al-Isra'",
+      "meaning": "Memperjalankan di Malam Hari",
+      "total_ayat": 111
+    },
+    {
+      "number": "018",
+      "name": "Al-Kahf",
+      "meaning": "Gua",
+      "total_ayat": 110
+    },
+    {
+      "number": "019",
+      "name": "Maryam",
+      "meaning": "Maryam",
+      "total_ayat": 98
+    },
+    {
+      "number": "020",
+      "name": "Taha",
+      "meaning": "Taha",
+      "total_ayat": 135
+    },
+    {
+      "number": "021",
+      "name": "Al-Anbiya",
+      "meaning": "Para Nabi",
+      "total_ayat": 112
+    },
+    {
+      "number": "022",
+      "name": "Al-Hajj",
+      "meaning": "Haji",
+      "total_ayat": 78
+    },
+    {
+      "number": "023",
+      "name": "Al-Mu'minun",
+      "meaning": "Orang-orang Mukmin",
+      "total_ayat": 118
+    },
+    {
+      "number": "024",
+      "name": "An-Nur",
+      "meaning": "Cahaya",
+      "total_ayat": 64
+    },
+    {
+      "number": "025",
+      "name": "Al-Furqan",
+      "meaning": "Pembeda",
+      "total_ayat": 77
+    },
+    {
+      "number": "026",
+      "name": "Asy-Syu'ara",
+      "meaning": "Para Penyair",
+      "total_ayat": 227
+    },
+    {
+      "number": "027",
+      "name": "An-Naml",
+      "meaning": "Semut",
+      "total_ayat": 93
+    },
+    {
+      "number": "028",
+      "name": "Al-Qasas",
+      "meaning": "Kisah-Kisah",
+      "total_ayat": 88
+    },
+    {
+      "number": "029",
+      "name": "Al-Ankabut",
+      "meaning": "Laba-Laba",
+      "total_ayat": 69
+    },
+    {
+      "number": "030",
+      "name": "Ar-Rum",
+      "meaning": "Romawi",
+      "total_ayat": 60
+    },
+    {
+      "number": "031",
+      "name": "Luqman",
+      "meaning": "Luqman",
+      "total_ayat": 54
+    },
+    {
+      "number": "032",
+      "name": "As-Sajdah",
+      "meaning": "Sajdah",
+      "total_ayat": 45
+    },
+    {
+      "number": "033",
+      "name": "Al-Ahzab",
+      "meaning": "Golongan yang Bersekutu",
+      "total_ayat": 73
+    },
+    {
+      "number": "034",
+      "name": "Saba'",
+      "meaning": "Saba'",
+      "total_ayat": 54
+    },
+    {
+      "number": "035",
+      "name": "Fatir",
+      "meaning": "Pencipta",
+      "total_ayat": 45
+    },
+    {
+      "number": "036",
+      "name": "Yasin",
+      "meaning": "Yasin",
+      "total_ayat": 83
+    },
+    {
+      "number": "037",
+      "name": "As-Saffat",
+      "meaning": "Barisan-Barisan",
+      "total_ayat": 182
+    },
+    {
+      "number": "038",
+      "name": "Sad",
+      "meaning": "Sad",
+      "total_ayat": 88
+    },
+    {
+      "number": "039",
+      "name": "Az-Zumar",
+      "meaning": "Rombongan",
+      "total_ayat": 75
+    },
+    {
+      "number": "040",
+      "name": "Gafir",
+      "meaning": "Maha Pengampun",
+      "total_ayat": 85
+    },
+    {
+      "number": "041",
+      "name": "Fussilat",
+      "meaning": "Dijelaskan",
+      "total_ayat": 54
+    },
+    {
+      "number": "042",
+      "name": "Asy-Syura",
+      "meaning": "Musyawarah",
+      "total_ayat": 53
+    },
+    {
+      "number": "043",
+      "name": "Az-Zukhruf",
+      "meaning": "Perhiasan",
+      "total_ayat": 89
+    },
+    {
+      "number": "044",
+      "name": "Ad-Dukhan",
+      "meaning": "Kabut Asap",
+      "total_ayat": 59
+    },
+    {
+      "number": "045",
+      "name": "Al-Jasiyah",
+      "meaning": "Berlutut",
+      "total_ayat": 37
+    },
+    {
+      "number": "046",
+      "name": "Al-Ahqaf",
+      "meaning": "Ahqaf",
+      "total_ayat": 35
+    },
+    {
+      "number": "047",
+      "name": "Muhammad",
+      "meaning": "Nabi Muhammad",
+      "total_ayat": 38
+    },
+    {
+      "number": "048",
+      "name": "Al-Fath",
+      "meaning": "Kemenangan",
+      "total_ayat": 29
+    },
+    {
+      "number": "049",
+      "name": "Al-Hujurat",
+      "meaning": "Kamar-Kamar",
+      "total_ayat": 18
+    },
+    {
+      "number": "050",
+      "name": "Qaf",
+      "meaning": "Qaf",
+      "total_ayat": 45
+    },
+    {
+      "number": "051",
+      "name": "Az-Zariyat",
+      "meaning": "Yang Menerbangkan",
+      "total_ayat": 60
+    },
+    {
+      "number": "052",
+      "name": "At-Tur",
+      "meaning": "Gunung",
+      "total_ayat": 49
+    },
+    {
+      "number": "053",
+      "name": "An-Najm",
+      "meaning": "Bintang",
+      "total_ayat": 62
+    },
+    {
+      "number": "054",
+      "name": "Al-Qamar",
+      "meaning": "Bulan",
+      "total_ayat": 55
+    },
+    {
+      "number": "055",
+      "name": "Ar-Rahman",
+      "meaning": "Yang Maha Pengasih",
+      "total_ayat": 78
+    },
+    {
+      "number": "056",
+      "name": "Al-Waqi'ah",
+      "meaning": "Hari Kiamat",
+      "total_ayat": 96
+    },
+    {
+      "number": "057",
+      "name": "Al-Hadid",
+      "meaning": "Besi",
+      "total_ayat": 29
+    },
+    {
+      "number": "058",
+      "name": "Al-Mujadalah",
+      "meaning": "Gugatan",
+      "total_ayat": 22
+    },
+    {
+      "number": "059",
+      "name": "Al-Hasyr",
+      "meaning": "Pengusiran",
+      "total_ayat": 24
+    },
+    {
+      "number": "060",
+      "name": "Al-Mumtahanah",
+      "meaning": "Wanita yang Diuji",
+      "total_ayat": 13
+    },
+    {
+      "number": "061",
+      "name": "As-Saff",
+      "meaning": "Barisan",
+      "total_ayat": 14
+    },
+    {
+      "number": "062",
+      "name": "Al-Jumu'ah",
+      "meaning": "Jumat",
+      "total_ayat": 11
+    },
+    {
+      "number": "063",
+      "name": "Al-Munafiqun",
+      "meaning": "Orang-Orang yang Munafik",
+      "total_ayat": 11
+    },
+    {
+      "number": "064",
+      "name": "At-Tagabun",
+      "meaning": "Pengungkapan Kesalahan",
+      "total_ayat": 18
+    },
+    {
+      "number": "065",
+      "name": "At-Talaq",
+      "meaning": "Talak",
+      "total_ayat": 12
+    },
+    {
+      "number": "066",
+      "name": "At-Tahrim",
+      "meaning": "Pengharaman",
+      "total_ayat": 12
+    },
+    {
+      "number": "067",
+      "name": "Al-Mulk",
+      "meaning": "Kerajaan",
+      "total_ayat": 30
+    },
+    {
+      "number": "068",
+      "name": "Al-Qalam",
+      "meaning": "Pena",
+      "total_ayat": 52
+    },
+    {
+      "number": "069",
+      "name": "Al-Haqqah",
+      "meaning": "Hari Kiamat yang Pasti Datang",
+      "total_ayat": 52
+    },
+    {
+      "number": "070",
+      "name": "Al-Ma'arij",
+      "meaning": "Tempat-Tempat Naik",
+      "total_ayat": 44
+    },
+    {
+      "number": "071",
+      "name": "Nuh",
+      "meaning": "Nuh",
+      "total_ayat": 28
+    },
+    {
+      "number": "072",
+      "name": "Al-Jinn",
+      "meaning": "Jin",
+      "total_ayat": 28
+    },
+    {
+      "number": "073",
+      "name": "Al-Muzammil",
+      "meaning": "Orang yang Berkemul",
+      "total_ayat": 20
+    },
+    {
+      "number": "074",
+      "name": "Al-Muddassir",
+      "meaning": "Orang Berselimut",
+      "total_ayat": 56
+    },
+    {
+      "number": "075",
+      "name": "Al-Qiyamah",
+      "meaning": "Hari Kiamat",
+      "total_ayat": 40
+    },
+    {
+      "number": "076",
+      "name": "Al-Insan",
+      "meaning": "Manusia",
+      "total_ayat": 31
+    },
+    {
+      "number": "077",
+      "name": "Al-Mursalat",
+      "meaning": "Malaikat yang Diutus",
+      "total_ayat": 50
+    },
+    {
+      "number": "078",
+      "name": "An-Naba'",
+      "meaning": "Berita",
+      "total_ayat": 40
+    },
+    {
+      "number": "079",
+      "name": "An-Nazi'at",
+      "meaning": "Malaikat-malaikat yang Mencabut",
+      "total_ayat": 6
+    },
+    {
+      "number": "080",
+      "name": "'Abasa",
+      "meaning": "Berwajah Masam",
+      "total_ayat": 42
+    },
+    {
+      "number": "081",
+      "name": "At-Takwir",
+      "meaning": "Penggulungan",
+      "total_ayat": 29
+    },
+    {
+      "number": "082",
+      "name": "Al-Infitar",
+      "meaning": "Terbelah",
+      "total_ayat": 25
+    },
+    {
+      "number": "083",
+      "name": "Al-Mutaffifin",
+      "meaning": "Orang-Orang yang Curang",
+      "total_ayat": 36
+    },
+    {
+      "number": "084",
+      "name": "Al-Insyiqaq",
+      "meaning": "Terbelah",
+      "total_ayat": 25
+    },
+    {
+      "number": "085",
+      "name": "Al-Buruj",
+      "meaning": "Gugusan Bintang",
+      "total_ayat": 22
+    },
+    {
+      "number": "086",
+      "name": "At-Tariq",
+      "meaning": "Yang Datang pada Malam Hari",
+      "total_ayat": 17
+    },
+    {
+      "number": "087",
+      "name": "Al-A'la",
+      "meaning": "Yang Maha Tinggi",
+      "total_ayat": 19
+    },
+    {
+      "number": "088",
+      "name": "Al-Gasyiyah",
+      "meaning": "Hari Pembalasan",
+      "total_ayat": 26
+    },
+    {
+      "number": "089",
+      "name": "Al-Fajr",
+      "meaning": "Fajar",
+      "total_ayat": 30
+    },
+    {
+      "number": "090",
+      "name": "Al-Balad",
+      "meaning": "Negeri",
+      "total_ayat": 20
+    },
+    {
+      "number": "091",
+      "name": "Asy-Syams",
+      "meaning": "Matahari",
+      "total_ayat": 15
+    },
+    {
+      "number": "092",
+      "name": "Al-Lail",
+      "meaning": "Malam",
+      "total_ayat": 21
+    },
+    {
+      "number": "093",
+      "name": "Ad-Duha",
+      "meaning": "Duha",
+      "total_ayat": 11
+    },
+    {
+      "number": "094",
+      "name": "Asy-Syarh",
+      "meaning": "Pelapangan",
+      "total_ayat": 8
+    },
+    {
+      "number": "095",
+      "name": "At-Tim",
+      "meaning": "Buah Tin",
+      "total_ayat": 8
+    },
+    {
+      "number": "096",
+      "name": "Al-'Alaq",
+      "meaning": "Segumpal Darah",
+      "total_ayat": 19
+    },
+    {
+      "number": "097",
+      "name": "Al-Qadr",
+      "meaning": "Al-Qadar",
+      "total_ayat": 5
+    },
+    {
+      "number": "098",
+      "name": "Al-Bayyinah",
+      "meaning": "Bukti Nyata",
+      "total_ayat": 8
+    },
+    {
+      "number": "099",
+      "name": "Az-Zalzalah",
+      "meaning": "Guncangan",
+      "total_ayat": 8
+    },
+    {
+      "number": "100",
+      "name": "Al-'Adiyat",
+      "meaning": "Kuda Perang yang Berlari",
+      "total_ayat": 11
+    },
+    {
+      "number": "101",
+      "name": "Al-Qari'ah",
+      "meaning": "Al-Qari'ah",
+      "total_ayat": 11
+    },
+    {
+      "number": "102",
+      "name": "At-Takasur",
+      "meaning": "Bermegah-Megahan",
+      "total_ayat": 8
+    },
+    {
+      "number": "103",
+      "name": "Al-'Asr",
+      "meaning": "Masa",
+      "total_ayat": 3
+    },
+    {
+      "number": "104",
+      "name": "Al-Humazah",
+      "meaning": "Pengumpat",
+      "total_ayat": 9
+    },
+    {
+      "number": "105",
+      "name": "Al-Fil",
+      "meaning": "Gajah",
+      "total_ayat": 5
+    },
+    {
+      "number": "106",
+      "name": "Quraisy",
+      "meaning": "Orang Quraisy",
+      "total_ayat": 4
+    },
+    {
+      "number": "107",
+      "name": "Al-Ma'un",
+      "meaning": "Bantuan",
+      "total_ayat": 7
+    },
+    {
+      "number": "108",
+      "name": "Al-Kausar",
+      "meaning": "Nikmat yang Banyak",
+      "total_ayat": 3
+    },
+    {
+      "number": "109",
+      "name": "Al-Kafirun",
+      "meaning": "Orang-Orang Kafir",
+      "total_ayat": 6
+    },
+    {
+      "number": "110",
+      "name": "An-Nasr",
+      "meaning": "Pertolongan",
+      "total_ayat": 3
+    },
+    {
+      "number": "111",
+      "name": "Al-Lahab",
+      "meaning": "Gejolak Api",
+      "total_ayat": 5
+    },
+    {
+      "number": "112",
+      "name": "Al-Ikhlas",
+      "meaning": "Ikhlas",
+      "total_ayat": 4
+    },
+    {
+      "number": "113",
+      "name": "Al-Falaq",
+      "meaning": "Fajar",
+      "total_ayat": 5
+    },
+    {
+      "number": "114",
+      "name": "An-Nas",
+      "meaning": "Manusia",
+      "total_ayat": 6
+    }
+  ]
+} 

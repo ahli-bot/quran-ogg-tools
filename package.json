@@ -1,0 +1,9 @@
+{
+  "name": "audio-merger",
+  "version": "1.0.0",
+  "description": "Script to merge OGG audio files",
+  "main": "merge-audio.js",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+} 
