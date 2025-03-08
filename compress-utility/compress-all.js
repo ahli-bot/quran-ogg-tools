@@ -8,7 +8,7 @@ async function compressAllFiles() {
     try {
         // Path setup
         const oggDir = path.join(__dirname, '../ogg');
-        const outputDir = path.join(__dirname, '../ogg-compressed');
+        const outputDir = path.join(__dirname, '../compressed-audio');
         console.log(oggDir);
         console.log(outputDir);
 
@@ -21,7 +21,7 @@ async function compressAllFiles() {
         // Create output directory if it doesn't exist
         if (!fs.existsSync(outputDir)) {
             fs.mkdirSync(outputDir, { recursive: true });
-            console.log('Membuat folder output: ogg-compressed');
+            console.log('Membuat folder output: compressed-audio');
         }
 
         // Get all .ogg files
