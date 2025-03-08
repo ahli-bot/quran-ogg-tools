@@ -72,7 +72,7 @@ project_folder/
 │   ├── 001001.ogg
 │   ├── 001002.ogg
 │   └── ...
-├── ogg-compressed/        # Folder output file terkompresi
+├── compressed-audio/        # Folder output file terkompresi
 │   ├── 001001.ogg
 │   ├── 001002.ogg
 │   └── ...
