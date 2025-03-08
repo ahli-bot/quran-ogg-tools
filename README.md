@@ -92,11 +92,16 @@ Example:
 node merge-ayat-cli-based.js bacaan 1 ayat 1-7
 ```
 Output: `output/surah_001_ayat_1-7.ogg`
+Output akan disimpan di folder `output`
 
 ### 2. Mengkompresi File / Compressing Files
 
 ```bash
 node compress.js "{direktori-file}"
+```
+Example:
+```bash
+node compress.js "ogg\01.ogg"
 ```
 Output akan disimpan di folder `compressed-audio`
 
