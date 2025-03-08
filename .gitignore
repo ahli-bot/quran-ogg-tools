@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Audio files and folders
+ogg/
+compressed-audio/
+audio-per-surah/
+audio-per-juz/
+output/
+temp/
+
+# Temporary files
+*.txt
+!requirements.txt
+
+# OS specific files
+.DS_Store
+Thumbs.db 
